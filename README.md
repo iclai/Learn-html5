@@ -23,4 +23,12 @@ description: basis of web design
 * HTML是由W3C\(World Wide Web Consortium:全球資訊網組織\)所制定出來的標準語言
 * 網頁構成必須符合W3C規範才能正常解譯，瀏覽器都是以符合 W3C標準開發出
 * HTML 使用「標記」（markup）來詮釋文字、圖像、或是其他能在瀏覽器裡面顯示的內容
+* HTML會告訴瀏覽器該如何呈現你的網頁
+
+## 網頁設計師的工作
+
+* 把傳達給電腦的HTML標記語言用視覺的方式呈現出來
+* 讓一般人瀏覽網站變得輕鬆，訪客不用會電腦語言，就能閱讀網頁。
+
+![](.gitbook/assets/web-designer.jpg)
 
