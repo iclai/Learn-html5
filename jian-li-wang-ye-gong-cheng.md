@@ -36,3 +36,9 @@ description: Build web site
 
 完成後就要開始撰寫HTML
 
+HTML 就是網站的骨架，要將網站撐起來，CSS則是網站的皮膚和衣服，有CSS你的網頁視覺才會呈現出圖像和色彩
+
+![](.gitbook/assets/gu-jia.jpg)
+
+![](.gitbook/assets/yi-fu.jpg)
+

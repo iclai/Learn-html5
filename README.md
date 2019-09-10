@@ -6,7 +6,7 @@ description: basis of web design
 
 網頁是由 HTML 和 CSS 組成，HTML 是網頁的基本骨架，也是最寫網頁最基本的標記語言。
 
-![](.gitbook/assets/website%20%281%29.jpg)
+![](.gitbook/assets/website.jpg)
 
 ## 網頁**是**如何操作?
 
@@ -15,7 +15,7 @@ description: basis of web design
 * 內容顯示和讀取文件，是必須用電腦了解的語言和規則組成，也就是HTML標記語言 
 * HTML語言將網頁轉換成我們可以在電腦螢幕上看到的頁面
 
-![](.gitbook/assets/wang-ye-cao-zuo.jpg)
+![](.gitbook/assets/wang-ye-cao-zuo%20%281%29.jpg)
 
 ## HTML 是甚麼?
 
