@@ -20,5 +20,11 @@ Awwwards也是前端設計界最有影響力的獎項之一，每天評選在設
 
 以五項作為評分標準，設計感、易用性，創新性，內容、行動版。來做平均總分
 
+![](../.gitbook/assets/image%20%281%29.png)
+
+###  [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/)
+
+很可愛的色彩配色網站，都直接幫你配好，你只要隨便選一個來用就好了
+
 ![](../.gitbook/assets/image.png)
 
