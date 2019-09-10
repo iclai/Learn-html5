@@ -30,5 +30,7 @@ Awwwards也是前端設計界最有影響力的獎項之一，每天評選在設
 
 ###   [NIPPON COLORS](http://nipponcolors.com/)
 
+傳統的色彩搭配，充滿亞洲東方色彩韻味的配色網站，裡面都是傳統色
+
 ![](../.gitbook/assets/image%20%282%29.png)
 
