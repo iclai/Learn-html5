@@ -1,5 +1,5 @@
 ---
-description: basis of web design
+description: 講義為提供給 國立台中科技大學多媒體設計，網頁設計課程使用。
 ---
 
 # 網頁設計初學習
