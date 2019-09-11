@@ -38,5 +38,5 @@ Awwwards也是前端設計界最有影響力的獎項之一，每天評選在設
 
 ### [uigradients](https://uigradients.com/#Ali)
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
