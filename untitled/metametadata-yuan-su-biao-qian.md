@@ -36,6 +36,11 @@ Meta Description\(網頁描述\)是HTML屬性，提供簡短的網頁摘要。�
 * Description 的字數雖然沒有限制，但搜尋引擎會在超過 160 字元 時，把多的字截短，_**理想長度為50-80中字元。**_
 * Google 在 2009 就宣布 meta descriptions 和 meta keywords 都不會影響 Google ranking ，只有在 Google 的進階搜尋時才會使用 meta descriptions，也就是說，description 吸引用戶點擊，點擊數才會影響排名。_**\(意思就是文字內容吸不吸引人很重要\)**_
 
+#### Keyword \(關鍵字屬性\)
+
+* Keyword 對 _**SEO 已經沒有效**_
+* Keyword 裡面有刻意堆疊過多的關鍵字（比方說裡面塞個20組以上的關鍵字），建議將它移除，避免被搜尋引擎判定我們有意圖作弊的嫌疑。
+
 Property，專門給Facebook用的協議，社群媒體有它們自己專用的Meta使用方式，才能讓HTML META 屬性提供網頁的標題、縮圖、描述.....等資訊，呈現在各個平台上。
 
 ```markup
