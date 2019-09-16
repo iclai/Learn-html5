@@ -19,7 +19,7 @@ description: 講義為提供給 國立台中科技大學多媒體設計，網頁
 
 ## HTML 是甚麼?
 
-* HTML \(Hyper Text Markup Language\) 是構成網頁的基礎
+* HTML \(Hyper Text Markup Language\) 是用來建立網頁的基礎語言
 * HTML是由W3C\(World Wide Web Consortium:全球資訊網組織\)所制定出來的標準語言
 * 網頁構成必須符合W3C規範才能正常解譯，瀏覽器都是以符合 W3C標準開發出
 * HTML 使用「標記」（markup）來詮釋文字、圖像、或是其他能在瀏覽器裡面顯示的內容
