@@ -20,6 +20,10 @@ HTML 的結構分為三大部分，
 
 #### 第二部分，head
 
+head專門放網頁重要資訊，包括要引用的外部CSS、Javascript、文字、這些不會顯示在網頁上，所以使用者看不到。
+
+包含 `<meta>  <title>   <link>   <script>`
+
 ```markup
 <head>
   <meta charset="UTF-8">
@@ -28,4 +32,19 @@ HTML 的結構分為三大部分，
   <title>HTML結構</title>
 </head>
 ```
+
+#### 第三部分，body
+
+包含了所有會顯示於網頁瀏覽者眼前的內容。 無論是文字、圖片、影面、互動遊戲...等。
+
+```markup
+<body>
+
+  <h1>我是大標題</h1>
+  <p>我是文章內文</p>
+  
+</body>
+```
+
+
 
