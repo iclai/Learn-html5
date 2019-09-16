@@ -20,14 +20,14 @@ Title \(標題屬性\)，代表網頁的主題，影響你的網頁在Google搜�
 Property，專門給Facebook用的協議，社群媒體有它們自己專用的Meta使用方式，才能讓HTML META 屬性提供網頁的標題、縮圖、描述.....等資訊，呈現在各個平台上。
 
 ```markup
-<meta property="fb:app_id" content="123456789">
-<meta property="og:url" content="https://example.com/page.html">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Content Title">
-<meta property="og:image" content="https://example.com/image.jpg">
-<meta property="og:description" content="Description Here">
-<meta property="og:site_name" content="Site Name">
-<meta property="og:locale" content="en_US">
+<meta property="fb:app_id" content="APPID">
+<meta property="og:url" content="https://xxx.com/page.html">
+<meta property="og:type" content="類型">
+<meta property="og:title" content="文章標題">
+<meta property="og:image" content="https://xxx.com/image.jpg">
+<meta property="og:description" content="這是一段簡介文字">
+<meta property="og:site_name" content="網站名稱">
+<meta property="og:locale" content="zh_TW">
 <meta property="article:author" content="">
 <!-- Facebook: https://developers.facebook.com/docs/sharing/webmasters#markup -->
 <!-- Open Graph: http://ogp.me/ -->
