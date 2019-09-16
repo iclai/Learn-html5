@@ -23,8 +23,8 @@ Title \(標題屬性\)，代表網頁的主題，影響你的網頁在Google搜�
 * keywords \(關鍵字\) 
 * author \(作者，標註本網頁作者姓名等資料\)
 * generator \(編輯器，編輯器等版本說明\) 
-* copyright \(版權宣告，本網頁由XXX設計\) 
-* distribution \(網頁發佈地區\)
+* copyright \(版權宣告，本網頁由XXX設計， 用來標示網頁的版權或著作權聲明\) 
+* distribution \(用來記錄網頁的發佈地區\)
 
 `<meta name>="description" content="對網頁的簡短描述">`
 
