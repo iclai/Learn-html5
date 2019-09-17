@@ -16,7 +16,7 @@ description: Build web site
 
 ![](../.gitbook/assets/cao-tu.jpg)
 
-設定網頁風格
+### 設定網頁風格
 
 * 你的網頁主題風格配色[\(線上配色\)](xian-shang-pei-se.md)
 * 網頁文章內容
@@ -34,7 +34,7 @@ description: Build web site
 
 ![](../.gitbook/assets/index.jpg)
 
-完成後就要開始撰寫HTML
+### 完成後就要開始撰寫HTML
 
 HTML 就是網站的骨架，要將網站撐起來，CSS則是網站的皮膚和衣服，有CSS你的網頁視覺才會呈現出圖像和色彩
 
@@ -44,7 +44,7 @@ HTML 就是網站的骨架，要將網站撐起來，CSS則是網站的皮膚和
 
 ### 
 
-## 網站的組合起來
+### 網站的組合起來
 
 ![](../.gitbook/assets/html+css%20%281%29.jpg)
 

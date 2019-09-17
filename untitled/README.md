@@ -4,7 +4,7 @@ description: HTML文件的組成
 
 # HTML結構
 
-HTML 的結構分為三大部分，
+## HTML 的結構分為三大部分
 
 * 宣告
 * Head
@@ -46,5 +46,5 @@ head專門放網頁重要資訊，包括要引用的外部CSS、Javascript、文
 </body>
 ```
 
-
+![](../.gitbook/assets/image%20%2815%29.png)
 
