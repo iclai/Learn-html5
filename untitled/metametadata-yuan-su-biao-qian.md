@@ -12,10 +12,10 @@ Title \(標題屬性\)，代表網頁的主題，影響你的網頁在Google搜�
 
 ###  定義四個屬性 \(attribute\) :
 
-* [Name](metametadata-yuan-su-biao-qian.md#name-chang-yong-de-content-she-ding-shu-xing-you)，設定網頁文件屬性定義名稱 
-* Http-equiv，設定網頁文件的狀態 
-* Content，設定網頁屬性定義內容
-* Charset，設定網頁字元編碼 
+* \*\*\*\*[**Name**](metametadata-yuan-su-biao-qian.md#name-chang-yong-de-content-she-ding-shu-xing-you)**，設定網頁文件屬性定義名稱** 
+* \*\*\*\*[**Http-equiv**](metametadata-yuan-su-biao-qian.md#httpequiv-de-content-she-ding-shu-xing-you)**，設定網頁文件的狀態** 
+* **Content，設定網頁屬性定義內容**
+* **Charset，設定網頁字元編碼** 
 
 ###  **Name常用的content設定屬性有：**
 
@@ -40,6 +40,16 @@ Meta Description\(網頁描述\)是HTML屬性，提供簡短的網頁摘要。�
 
 * Keyword 對 _**SEO 已經沒有效**_
 * Keyword 裡面有刻意堆疊過多的關鍵字（比方說裡面塞個20組以上的關鍵字），建議將它移除，避免被搜尋引擎判定我們有意圖作弊的嫌疑。
+
+### http-equiv的content設定屬性有:
+
+* content-type
+* content-language
+* refresh
+* Pragma
+* windows-Target
+
+
 
 Property，專門給Facebook用的協議，社群媒體有它們自己專用的Meta使用方式，才能讓HTML META 屬性提供網頁的標題、縮圖、描述.....等資訊，呈現在各個平台上。
 
