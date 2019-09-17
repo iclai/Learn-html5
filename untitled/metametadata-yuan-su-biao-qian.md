@@ -8,7 +8,7 @@
 
 Title \(標題屬性\)，代表網頁的主題，影響你的網頁在Google搜尋排名， Title 標記理想的長度為 _**20~30 中文字**_，Title請撰寫明確、幫助使用者認識你的網站。 
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 ###  定義四個屬性 \(attribute\) :
 
@@ -17,22 +17,23 @@ Title \(標題屬性\)，代表網頁的主題，影響你的網頁在Google搜�
 * **Content，設定網頁屬性定義內容**
 * **Charset，設定網頁字元編碼** 
 
-###  **Name常用的content設定屬性有：**
+###  **Name常用的屬性：**
 
 * description \(描述，內容的主要描述\)
 * keywords \(關鍵字\) 
 * author \(作者，標註本網頁作者姓名等資料\)
-* generator \(編輯器，編輯器等版本說明\) 
 * copyright \(版權宣告，本網頁由XXX設計， 用來標示網頁的版權或著作權聲明\) 
-* distribution \(用來記錄網頁的發佈地區\)
+* generator \(編輯器，編輯器等版本說明\) 
 
-`<meta name>="description" content="對網頁的簡短描述">`
+```markup
+<meta name="description" content="對網頁的簡短描述">
+```
 
 Meta Description\(網頁描述\)是HTML屬性，提供簡短的網頁摘要。通常出現在搜尋引擎結果頁面。
 
-![description&#x63CF;&#x8FF0;&#x7684;&#x6587;&#x5B57;&#x6703;&#x51FA;&#x73FE;&#x5728;&#x641C;&#x5C0B;&#x5F15;&#x64CE;](../.gitbook/assets/image%20%289%29.png)
+![description&#x63CF;&#x8FF0;&#x7684;&#x6587;&#x5B57;&#x6703;&#x51FA;&#x73FE;&#x5728;&#x641C;&#x5C0B;&#x5F15;&#x64CE;](../.gitbook/assets/image%20%2810%29.png)
 
-![description&#x63CF;&#x8FF0;&#x7684;&#x6587;&#x5B57;](../.gitbook/assets/image%20%284%29.png)
+![description&#x63CF;&#x8FF0;&#x7684;&#x6587;&#x5B57;](../.gitbook/assets/image%20%285%29.png)
 
 * Description \(敘述屬性\)，包含頁面內容的簡短和精確的描述，描述頁面的主要內容，幫助用戶判斷是否是他要搜尋的資訊，並著重在提升用戶體驗、點擊率。
 * Description 的字數雖然沒有限制，但搜尋引擎會在超過 160 字元 時，把多的字截短，_**理想長度為50-80中字元。**_
@@ -43,7 +44,33 @@ Meta Description\(網頁描述\)是HTML屬性，提供簡短的網頁摘要。�
 * Keyword 對 _**SEO 已經沒有效**_
 * Keyword 裡面有刻意堆疊過多的關鍵字（比方說裡面塞個20組以上的關鍵字），建議將它移除，避免被搜尋引擎判定我們有意圖作弊的嫌疑。
 
-### http-equiv的content設定屬性有:
+#### author\(作者\)
+
+```markup
+<meta name="author" content="輸入網頁製作者的資料">
+```
+
+![](../.gitbook/assets/image%20%284%29.png)
+
+#### copyright\(版權\)
+
+```markup
+<meta name="copyright" content="xx"> //代表該網站為xx個人版權所有>
+```
+
+#### generator\(網頁製作軟體，標明網頁是什麼軟體做的\)
+
+```markup
+<meta name="generator" content="Visual Studio Code">
+```
+
+### http-equiv屬性:
+
+相當於HTTP的作用， **http-equiv**屬性為指定所要模擬的標頭欄位的名稱，**content**屬性用來提供值。
+
+```markup
+<meta http-equiv="引數" content="具體的描述">
+```
 
 * content-type
 * content-language
