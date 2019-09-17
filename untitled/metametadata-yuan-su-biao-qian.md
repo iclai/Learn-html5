@@ -58,6 +58,8 @@ Meta Description\(網頁描述\)是HTML屬性，提供簡短的網頁摘要。�
 <meta name="copyright" content="xx"> //代表該網站為xx個人版權所有>
 ```
 
+copyright 這個 meta 已經不常使用了。建議移除它並創建一個專屬版權頁面
+
 #### generator\(網頁製作軟體，標明網頁是什麼軟體做的\)
 
 ```markup
@@ -74,11 +76,44 @@ Meta Description\(網頁描述\)是HTML屬性，提供簡短的網頁摘要。�
 
 * content-type
 * content-language
+* X-UA-Compatible
 * refresh
-* Pragma
 * windows-Target
 
+#### content-Type\(設定網頁字符集\)
 
+```markup
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+```
+
+```markup
+<meta charset="UTF-8" />   //符合HTML5設定網頁字符集的方式，推薦使用
+```
+
+將charset縮短成上面那樣，所有的瀏覽器還是會做出相同判定（甚至包括Internet Explorer 6），所以最好用新的寫法
+
+#### content-language \(告知搜尋引擎網頁屬於中文網站\)
+
+```markup
+<meta http-equiv="content-language" content="zh-tw">
+```
+
+ 相關 ZH 編碼有，台灣繁體 ZH-tw、香港繁體 ZH-hk、中國簡體 ZH-cn、新加坡簡體 ZH-sg  
+
+
+#### X-UA-Compatible\(告訴瀏覽器採取何種版本渲染當前頁面，一般都設定為最新模式\)
+
+```markup
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/> //指定IE和Chrome使用最新版本渲染當前頁>
+```
+
+#### refresh\(自動重新整理並指向某頁面\)
+
+網頁將在設定的時間內，自動重新整理並調向設定的網址。
+
+```markup
+<meta http-equiv="refresh" content="2；URL=https://www.yahoo.com.tw"> //意思是2秒後跳轉到yahoo>
+```
 
 Property，專門給Facebook用的協議，社群媒體有它們自己專用的Meta使用方式，才能讓HTML META 屬性提供網頁的標題、縮圖、描述.....等資訊，呈現在各個平台上。
 
