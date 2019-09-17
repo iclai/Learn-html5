@@ -12,8 +12,8 @@ Title \(標題屬性\)，代表網頁的主題，影響你的網頁在Google搜�
 
 ###  定義屬性 \(attribute\) :
 
-* \*\*\*\*[**Name**](metametadata-yuan-su-biao-qian.md#name-chang-yong-de-content-she-ding-shu-xing-you)**，設定網頁文件屬性定義名稱** 
-* \*\*\*\*[**Http-equiv**](metametadata-yuan-su-biao-qian.md#httpequiv-de-content-she-ding-shu-xing-you)**，設定網頁文件的狀態** 
+* \*\*\*\*[**Name**](meta-element-tag.md#name-chang-yong-de-content-she-ding-shu-xing-you)**，設定網頁文件屬性定義名稱** 
+* \*\*\*\*[**Http-equiv**](meta-element-tag.md#httpequiv-de-content-she-ding-shu-xing-you)**，設定網頁文件的狀態** 
   * **Content，設定網頁屬性定義內容**
   * **Charset，設定網頁字元編碼** 
 
