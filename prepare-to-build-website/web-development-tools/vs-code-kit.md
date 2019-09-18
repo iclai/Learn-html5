@@ -18,7 +18,7 @@ description: 常用的VS CODE 套件
 
 ![](../../.gitbook/assets/image%20%289%29.png)
 
-![](../../.gitbook/assets/usage.gif)
+![](../../.gitbook/assets/p2.gif)
 
 ### [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 
