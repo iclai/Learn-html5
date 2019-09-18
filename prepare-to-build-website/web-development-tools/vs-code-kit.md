@@ -85,5 +85,5 @@ description: 編輯網頁常用的VS CODE 套件，看自己平常都使用那�
 
 ![](../../.gitbook/assets/p7.gif)
 
-
+### [Bootstrap 4 & Font awesome snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
 
