@@ -8,19 +8,19 @@ description: 線上向量 icon 取代圖片
 
 * 知名大眾品牌
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 ### [Feather Icons](https://feathericons.com)
 
 * 乾淨、細緻的風格
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 ## [Ionicons](https://ionicons.com/)
 
 * 收錄700多種免費的icon圖示，@benjsperry 設計，有有常見的社群網站的圖示。
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 ## [Flat icon](https://www.flaticon.com/)
 
@@ -32,5 +32,5 @@ description: 線上向量 icon 取代圖片
 
 * 在 resources，裡面有許多icon可以直接安裝使用。
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
