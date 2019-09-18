@@ -5,6 +5,7 @@
   * [線上圖示](prepare-to-build-website/online-icon.md)
   * [線上配色](prepare-to-build-website/online-color.md)
   * [網頁開發工具](prepare-to-build-website/web-development-tools/README.md)
+    * [Vs code 常用快捷鍵](prepare-to-build-website/web-development-tools/vs-code-chang-yong-kuai-jie-jian.md)
     * [vs code 套件](prepare-to-build-website/web-development-tools/vs-code-kit.md)
 * [HTML結構](html-structure/README.md)
   * [Meta\(Metadata\) 元素標籤](html-structure/meta-element-tag.md)

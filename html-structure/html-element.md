@@ -18,23 +18,27 @@ html標籤通常都是對稱的，有開始就會有結束標籤，成對出現�
 
 **起始標籤 + 結束標籤 + 內容 = 就是元素**
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
-### 元素屬性
+### 元素屬性 \(element attribute\)
 
 * 元素可以加入 屬性
 * 屬性包含 【名稱】、【值】
 * 可以利用屬性設定這個元素的色彩、對齊方式、圖表的格線等等。
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
-### 開發工具：[Mozilla Thimble](https://thimble.mozilla.org/) <a id="env"></a>
+#### 屬性的組成包含:
 
-* 網頁發佈快速，並可取得網址，大家都看的到你的網頁
-* Live Preview，網頁所見即得，你可以一邊寫語法，一邊及時看到網頁是如何呈現
-* 有無帳號皆可使用
-* 介面簡單好操作，不需要害怕安裝有的沒的編輯器
-* 雲端操作，回到家也可以繼續做，也可以下載下來
+* 元素名稱和屬性之間有一個空格  如上方 **`<p style="......."> p和style中間有空一格`**
+* 屬性名稱後面接著等於符號**`「=」`**
+* 屬性包在起始標籤裡面
 
-![](../.gitbook/assets/image%20%2835%29.png)
+```markup
+<p style="color:#0987b5;">這是我第一個網頁</p>
+```
+
+![](../.gitbook/assets/image%20%2829%29.png)
+
+### 巢狀元素（nesting element）
 
