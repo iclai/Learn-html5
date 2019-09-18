@@ -22,6 +22,10 @@ description: 常用的VS CODE 套件
 
 ### [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 
+美化網頁原始碼讓網頁原始碼可以自動縮排，排列整齊、支援 javascript、CSS 和 HTML 。
+
+安裝好後，將要排列整齊的區塊圈選起來，點鍵盤「F1」就可以區段美化。
+
 ![](../../.gitbook/assets/image%20%2811%29.png)
 
 ![](../../.gitbook/assets/p1.gif)
