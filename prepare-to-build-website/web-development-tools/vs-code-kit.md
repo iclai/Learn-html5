@@ -1,5 +1,5 @@
 ---
-description: 常用的VS CODE 套件
+description: 編輯網頁常用的VS CODE 套件，看自己平常都使用那些語言，可以自行新增。
 ---
 
 # vs code 套件
@@ -8,15 +8,15 @@ description: 常用的VS CODE 套件
 
 刮號前後一組，使用同樣的顏色來分辨有沒有完整，讓使用者很容易看清楚。
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2834%29.png)
 
 ### [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 自動在開始標記的結束括號中輸入時就自動添加結束標記，非常方便，避免少打一個標記而造成網頁跑版。
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 ![](../../.gitbook/assets/p2.gif)
 
@@ -26,7 +26,23 @@ description: 常用的VS CODE 套件
 
 安裝好後，將要排列整齊的區塊圈選起來，點鍵盤「F1」就可以區段美化。
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 ![](../../.gitbook/assets/p1.gif)
+
+### [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+圖示標示，安裝後也比較清楚各種語法類型
+
+![](../../.gitbook/assets/image%20%286%29.png)
+
+![](../../.gitbook/assets/foldericons.png)
+
+### [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag#review-details)
+
+選擇起始標記就會自動也選提示結束標記，讓使用者輕鬆辨識成對的語法。
+
+![](../../.gitbook/assets/image%20%2837%29.png)
+
+![](../../.gitbook/assets/p3.gif)
 
