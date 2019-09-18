@@ -18,7 +18,7 @@ html標籤通常都是對稱的，有開始就會有結束標籤，成對出現�
 
 **起始標籤 + 結束標籤 + 內容 = 就是元素**
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 ### 元素屬性
 
@@ -26,7 +26,7 @@ html標籤通常都是對稱的，有開始就會有結束標籤，成對出現�
 * 屬性包含 【名稱】、【值】
 * 可以利用屬性設定這個元素的色彩、對齊方式、圖表的格線等等。
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 ### 開發工具：[Mozilla Thimble](https://thimble.mozilla.org/) <a id="env"></a>
 
@@ -36,5 +36,5 @@ html標籤通常都是對稱的，有開始就會有結束標籤，成對出現�
 * 介面簡單好操作，不需要害怕安裝有的沒的編輯器
 * 雲端操作，回到家也可以繼續做，也可以下載下來
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 

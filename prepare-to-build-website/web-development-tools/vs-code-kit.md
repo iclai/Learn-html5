@@ -8,17 +8,33 @@ description: 編輯網頁常用的VS CODE 套件，看自己平常都使用那�
 
 刮號前後一組，使用同樣的顏色來分辨有沒有完整，讓使用者很容易看清楚。
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
-![](../../.gitbook/assets/image%20%2835%29.png)
+![](../../.gitbook/assets/image%20%2840%29.png)
 
 ### [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 自動在開始標記的結束括號中輸入時就自動添加結束標記，非常方便，避免少打一個標記而造成網頁跑版。
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 ![](../../.gitbook/assets/p2.gif)
+
+### [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+讓成對的標籤同時自動一起修改，不用一個一個修改
+
+![](../../.gitbook/assets/image%20%287%29.png)
+
+![](../../.gitbook/assets/p5%20%281%29.gif)
+
+### [AutoFileName](https://marketplace.visualstudio.com/items?itemName=JerryHong.autofilename)
+
+讓編輯器自動連結圖片或是檔案路徑，不需要自己找。
+
+![](../../.gitbook/assets/image%20%2817%29.png)
+
+![](../../.gitbook/assets/p6.gif)
 
 ### [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 
@@ -26,7 +42,7 @@ description: 編輯網頁常用的VS CODE 套件，看自己平常都使用那�
 
 安裝好後，將要排列整齊的區塊圈選起來，點鍵盤「F1」就可以區段美化。
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
 ![](../../.gitbook/assets/p1.gif)
 
@@ -34,7 +50,7 @@ description: 編輯網頁常用的VS CODE 套件，看自己平常都使用那�
 
 圖示標示，安裝後也比較清楚各種語法類型
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/image%20%288%29.png)
 
 ![](../../.gitbook/assets/foldericons.png)
 
@@ -42,7 +58,7 @@ description: 編輯網頁常用的VS CODE 套件，看自己平常都使用那�
 
 選擇起始標記就會自動也選提示結束標記，讓使用者輕鬆辨識成對的語法。
 
-![](../../.gitbook/assets/image%20%2838%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 ![](../../.gitbook/assets/p3.gif)
 
