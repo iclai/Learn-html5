@@ -46,5 +46,5 @@ head專門放網頁重要資訊，包括要引用的外部CSS、Javascript、文
 </body>
 ```
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 

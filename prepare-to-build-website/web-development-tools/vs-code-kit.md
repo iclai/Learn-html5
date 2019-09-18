@@ -1,0 +1,20 @@
+---
+description: 常用的VS CODE 套件
+---
+
+# vs code 套件
+
+### [Bracket Pair Colorize](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+
+刮號前後一組，使用同樣的顏色來分辨有沒有完整，讓使用者很容易看清楚。
+
+![](../../.gitbook/assets/image%20%289%29.png)
+
+![](../../.gitbook/assets/image%20%2830%29.png)
+
+### [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+
+![](../../.gitbook/assets/image%20%2817%29.png)
+
+![](../../.gitbook/assets/image%20%287%29.png)
+
