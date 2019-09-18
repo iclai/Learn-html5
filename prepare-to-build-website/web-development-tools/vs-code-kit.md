@@ -10,7 +10,7 @@ description: 常用的VS CODE 套件
 
 ![](../../.gitbook/assets/image%20%2810%29.png)
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
 ### [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
@@ -19,4 +19,10 @@ description: 常用的VS CODE 套件
 ![](../../.gitbook/assets/image%20%289%29.png)
 
 ![](../../.gitbook/assets/usage.gif)
+
+### [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+
+![](../../.gitbook/assets/image%20%2811%29.png)
+
+![](../../.gitbook/assets/p1.gif)
 
