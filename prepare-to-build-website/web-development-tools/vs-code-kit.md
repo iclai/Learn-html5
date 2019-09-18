@@ -14,7 +14,5 @@ description: 常用的VS CODE 套件
 
 ### [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
-![](../../.gitbook/assets/image%20%2817%29.png)
-
-![](../../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/usage.gif)
 
