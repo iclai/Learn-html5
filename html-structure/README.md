@@ -46,5 +46,9 @@ head專門放網頁重要資訊，包括要引用的外部CSS、Javascript、文
 </body>
 ```
 
-![](../.gitbook/assets/image%20%2834%29.png)
+### HTML 文件的架構
+
+一個完整的HTML頁面，它所需要包含的要素，如下：
+
+![](../.gitbook/assets/a.jpg)
 
