@@ -20,7 +20,7 @@ description: 線上向量 icon 取代圖片
 
 * 收錄700多種免費的icon圖示，@benjsperry 設計，有有常見的社群網站的圖示。
 
-![](../.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
 ## [Flat icon](https://www.flaticon.com/)
 
