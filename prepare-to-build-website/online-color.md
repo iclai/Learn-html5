@@ -18,7 +18,7 @@ Awwwards也是前端設計界最有影響力的獎項之一，每天評選在設
 
 以五項作為評分標準，設計感、易用性，創新性，內容、行動版。來做平均總分
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
 ###  [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/)
 
@@ -34,9 +34,9 @@ Awwwards也是前端設計界最有影響力的獎項之一，每天評選在設
 
 ### [coolors](https://coolors.co/)
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 ### [uigradients](https://uigradients.com/#Ali)
 
-![](../.gitbook/assets/image%20%2863%29.png)
+![](../.gitbook/assets/image%20%2866%29.png)
 
