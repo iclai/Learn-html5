@@ -8,17 +8,17 @@
 
 
 
-![](../../.gitbook/assets/image%20%2862%29.png)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
 ### [Brackets](http://brackets.io/)
 
 adobe出品，免費使用，簡潔速度快
 
-![](../../.gitbook/assets/image%20%2866%29.png)
+![](../../.gitbook/assets/image%20%2868%29.png)
 
 ### [Visual Studio Code](https://code.visualstudio.com)
 
 微軟出品免費使用，佔記憶體低，開啟大檔案也是秒開，支援全平臺，插件多，上手速度最快
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 

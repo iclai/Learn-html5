@@ -18,29 +18,29 @@ Awwwards也是前端設計界最有影響力的獎項之一，每天評選在設
 
 以五項作為評分標準，設計感、易用性，創新性，內容、行動版。來做平均總分
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 
 ###  [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/)
 
 很可愛的色彩配色網站，都直接幫你配好，你只要隨便選一個來用就好了
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 ###   [NIPPON COLORS](http://nipponcolors.com/)
 
 傳統的色彩搭配，充滿亞洲東方色彩韻味的配色網站，裡面都是傳統色
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 ### [coolors](https://coolors.co/)
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 ### [uigradients](https://uigradients.com/#Ali)
 
-![](../.gitbook/assets/image%20%2869%29.png)
+![](../.gitbook/assets/image%20%2871%29.png)
 
 ###  Html Color Codes[tml](https://htmlcolorcodes.com/)[Ｃ](https://htmlcolorcodes.com/)[olor](https://htmlcolorcodes.com/)[Ｃ](https://htmlcolorcodes.com/)[odes](https://htmlcolorcodes.com/)
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 

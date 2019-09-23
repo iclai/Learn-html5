@@ -9,9 +9,9 @@
     * [Vs code 常用快捷鍵](prepare-to-build-website/web-development-tools/vs-code-chang-yong-kuai-jie-jian.md)
     * [vs code 套件](prepare-to-build-website/web-development-tools/vs-code-kit.md)
 * [HTML結構](html-structure/README.md)
-  * [Color顏色](html-structure/color.md)
   * [Meta\(Metadata\) 元素標籤](html-structure/meta-element-tag.md)
   * [Html element元素](html-structure/html-element.md)
   * [Markup text標記文字](html-structure/markup-text.md)
   * [image圖片](html-structure/untitled.md)
+  * [Color顏色](html-structure/color.md)
 
