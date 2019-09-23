@@ -13,7 +13,7 @@
   * [Html element元素](html-structure/html-element.md)
   * [Color顏色](html-structure/color.md)
   * [Markup text標記文字](html-structure/markup-text.md)
-* [Html Table表格](table/README.md)
-  * [表格基礎](table/table-base.md)
-  * [表格邊框樣式](table/biao-ge-bian-kuang-yang-shi.md)
+  * [Html Table表格](html-structure/table/README.md)
+    * [表格基礎](html-structure/table/table-base.md)
+    * [表格邊框樣式](html-structure/table/biao-ge-bian-kuang-yang-shi.md)
 
