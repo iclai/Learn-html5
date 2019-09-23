@@ -8,7 +8,7 @@
 
 Title \(標題屬性\)，代表網頁的主題，影響你的網頁在Google搜尋排名， Title 標記理想的長度為 _**20~30 中文字**_，Title請撰寫明確、幫助使用者認識你的網站。 
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/image%20%2872%29.png)
 
 ###  定義屬性 \(attribute\) :
 
@@ -135,7 +135,7 @@ Open graph 專門給Facebook用的協議， 它與 meta tag 非常相似，社�
 <meta property="og:locale" content="zh_TW">
 ```
 
-![](../.gitbook/assets/image%20%2878%29.png)
+![](../.gitbook/assets/image%20%2879%29.png)
 
 #### Metadata 的 og:Tag屬性說明
 
@@ -145,11 +145,11 @@ Open graph 專門給Facebook用的協議， 它與 meta tag 非常相似，社�
 <meta property="og:image" content="https://www.apple.com/ac/structured-data/images/open_graph_logo.png?201810272230">
 ```
 
-![](../.gitbook/assets/image%20%2872%29.png)
+![](../.gitbook/assets/image%20%2873%29.png)
 
 ![og:image&#x6C92;&#x6709;&#x653E;&#x5165;&#x5716;&#x7247;&#x8DEF;&#x5F91;](../.gitbook/assets/image%20%2855%29.png)
 
-![FB&#x5716;&#x7247;&#x5C31;&#x4E0D;&#x6703;&#x51FA;&#x73FE;](../.gitbook/assets/image%20%2881%29.png)
+![FB&#x5716;&#x7247;&#x5C31;&#x4E0D;&#x6703;&#x51FA;&#x73FE;](../.gitbook/assets/image%20%2882%29.png)
 
 #### 完整的Property屬性設定，就會有良好的網站曝光率及點擊率!!
 
