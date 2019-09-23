@@ -10,7 +10,7 @@ description: 編輯網頁常用的VS CODE 套件，看自己平常都使用那�
 
 ![](../../.gitbook/assets/image%20%2822%29.png)
 
-![](../../.gitbook/assets/image%20%2866%29.png)
+![](../../.gitbook/assets/image%20%2867%29.png)
 
 ### [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
@@ -32,7 +32,7 @@ description: 編輯網頁常用的VS CODE 套件，看自己平常都使用那�
 
 讓編輯器自動連結圖片或是檔案路徑，不需要自己找。
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 
 ![](../../.gitbook/assets/p6.gif)
 
@@ -42,7 +42,7 @@ description: 編輯網頁常用的VS CODE 套件，看自己平常都使用那�
 
 安裝好後，將要排列整齊的區塊圈選起來，點鍵盤「F1」就可以區段美化。
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
 ![](../../.gitbook/assets/p1.gif)
 
@@ -58,7 +58,7 @@ description: 編輯網頁常用的VS CODE 套件，看自己平常都使用那�
 
 選擇起始標記就會自動也選提示結束標記，讓使用者輕鬆辨識成對的語法。
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+![](../../.gitbook/assets/image%20%2872%29.png)
 
 ![](../../.gitbook/assets/p3.gif)
 

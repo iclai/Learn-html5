@@ -8,11 +8,11 @@ description: 早期的table 是同時拿來做網站排版與資料呈現，在 
 
 像是 餐廳菜單
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 價錢頁面
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 學術資料
 
