@@ -37,7 +37,7 @@ description: 快捷鍵，加快輸入code的速度
  [Visual Studio Code shortcuts for MacOS 官方文件](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 
 
