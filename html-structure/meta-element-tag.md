@@ -135,7 +135,7 @@ Open graph 專門給Facebook用的協議， 它與 meta tag 非常相似，社�
 <meta property="og:locale" content="zh_TW">
 ```
 
-![](../.gitbook/assets/image%20%2890%29.png)
+![](../.gitbook/assets/image%20%2891%29.png)
 
 #### Metadata 的 og:Tag屬性說明
 
@@ -149,7 +149,7 @@ Open graph 專門給Facebook用的協議， 它與 meta tag 非常相似，社�
 
 ![og:image&#x6C92;&#x6709;&#x653E;&#x5165;&#x5716;&#x7247;&#x8DEF;&#x5F91;](../.gitbook/assets/image%20%2865%29.png)
 
-![FB&#x5716;&#x7247;&#x5C31;&#x4E0D;&#x6703;&#x51FA;&#x73FE;](../.gitbook/assets/image%20%2893%29.png)
+![FB&#x5716;&#x7247;&#x5C31;&#x4E0D;&#x6703;&#x51FA;&#x73FE;](../.gitbook/assets/image%20%2894%29.png)
 
 #### 完整的Property屬性設定，就會有良好的網站曝光率及點擊率!!
 
