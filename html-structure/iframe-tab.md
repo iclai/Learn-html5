@@ -16,10 +16,6 @@ iframe這個詞是 **`inline frame`** 的縮寫
 </iframe>
 ```
 
-{% hint style="info" %}
-HTML5 不推薦使用Frames,而不支持iFrames。
-{% endhint %}
-
 ### iframe屬性
 
 * **`frameborder`**是否顯示邊框，**`1(yes), 0(no)`**
@@ -30,5 +26,24 @@ HTML5 不推薦使用Frames,而不支持iFrames。
 * **`src`**  iframe的網址。
 * **`sandbox`**控制iframe 內的權限\(html5新功能\)。\([解說資料在此](https://msdn.microsoft.com/en-us/hh563496.aspx)\)
 
+{% hint style="info" %}
+HTML5 不推薦使用Frames,而不支持iFrames。
+{% endhint %}
 
+### iframe缺點
+
+網頁盡量少用iframe
+
+* iframe會阻礙主頁面的Onload事件
+* 搜索引擎的檢索程序無法解讀這種頁面，對SEO排名不利。
+* iframe和主頁面共享連接池，而瀏覽器對同域的連接有限制，所以會影響網頁的並行加載。
+
+> 並行加載，意思是同一個時間，針對同一個域名下的請求。 一般情況，iframe和所有頁面在同一個網域下，瀏覽器的同時加載數量是有限制的。
+
+所以，在使用iframe時，最好要先考慮到以上幾個缺點，如果真的需要，最好透過**`JavaScript`**動態給iframe添加**`src`**屬性，這樣可以避開同時加載的所產生的問題。
+
+```javascript
+<iframe id="fram"></iframe>
+document.getelementbyid("fram").src="index.html"
+```
 
