@@ -26,7 +26,7 @@ html標籤通常都是對稱的，有開始就會有結束標籤，成對出現�
 * 屬性包含 【名稱】、【值】
 * 可以利用屬性設定這個元素的色彩、對齊方式、圖表的格線等等。
 
-![](../.gitbook/assets/image%20%2860%29.png)
+![](../.gitbook/assets/image%20%2861%29.png)
 
 #### 屬性的組成包含:
 
@@ -46,7 +46,7 @@ html標籤通常都是對稱的，有開始就會有結束標籤，成對出現�
 * 標籤巢狀元素，若你想強調「第一個」，就把「第一個」這三個字自成一個顯示為粗體的元素 
 * HTML 標籤不分英文大小寫。也就是說，它們可以寫成英文全大寫、全小寫、或是混在一起。像是 &lt;title&gt; 能寫成 &lt;Title&gt;、&lt;TiTle&gt;
 
-![](../.gitbook/assets/image%20%2879%29.png)
+![](../.gitbook/assets/image%20%2880%29.png)
 
 ### 空元素（empty elements）
 
@@ -79,7 +79,7 @@ html標籤通常都是對稱的，有開始就會有結束標籤，成對出現�
 <wbr>
 ```
 
-![&#x4EE5;&#x9019;&#x500B;&#x5716;&#x7247;&#x5143;&#x7D20; &amp;lt;img&amp;gt;&#x70BA;&#x4F8B;](../.gitbook/assets/image%20%2887%29.png)
+![&#x4EE5;&#x9019;&#x500B;&#x5716;&#x7247;&#x5143;&#x7D20; &amp;lt;img&amp;gt;&#x70BA;&#x4F8B;](../.gitbook/assets/image%20%2888%29.png)
 
 ```markup
 <img src="https://i.imgur.com/ttAYRxX.gif" alt="小小兵">
@@ -87,5 +87,5 @@ html標籤通常都是對稱的，有開始就會有結束標籤，成對出現�
 
 它有兩個屬性，但是沒有結束標籤，也沒有裡面的內容。因為圖片元素是直接把圖檔嵌在 HTML 網頁上。
 
-![](../.gitbook/assets/image%20%2873%29.png)
+![](../.gitbook/assets/image%20%2874%29.png)
 
