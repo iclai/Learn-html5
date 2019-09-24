@@ -11,11 +11,23 @@ alt屬性，是運用在當網頁瀏覽者，無法正確看到圖片時，用�
 
 title屬性，當滑鼠滑過圖片上方時，會顯示圖片文字標示，可以增加瀏覽者對該張圖片的辨識。
 
-![](../.gitbook/assets/image%20%2892%29.png)
+![](../.gitbook/assets/image%20%2896%29.png)
 
 ### 網頁中使用的圖片類型
 
 * **Jpeg**，網頁最常使用的檔案類型，但圖像品質也比低。
 * **Png**，可以保持圖像品質清晰銳利，但檔案較大，不同於Jpeg的地方是，可以帶透明背景。
 * **Svg**，可以縮放的向量圖片，不會因為縮放而失真。
+
+### img 圖片縮放
+
+![](../.gitbook/assets/image%20%2872%29.png)
+
+```markup
+ <div style="border:2px red solid;">
+    <a href="#">
+      <img src="XXX.jpg" title="XXX" width="XXX" />
+    </a>
+  </div>
+```
 
