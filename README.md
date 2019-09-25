@@ -11,7 +11,7 @@ description: 講義僅提供給 國立台中科技大學多媒體設計，網頁
 ## 網頁**是**如何操作?
 
 * 網頁是由W3C自訂出來一套標準專屬網頁的文件\(doctype\)
-* 電腦透過互聯網供應商ISP \(Internet Service Provider\)連上網路
+* 電腦透過互聯網供應商ISP \(Internet Service Provider\)連上網路，HiNet、SeedNet等，都是屬於ISP網際網路連線服務公司
 * 內容顯示和讀取文件，是必須用電腦了解的語言和規則組成，也就是HTML標記語言 
 * HTML語言將網頁轉換成我們可以在電腦螢幕上看到的頁面
 
@@ -19,7 +19,7 @@ description: 講義僅提供給 國立台中科技大學多媒體設計，網頁
 
 ## HTML 是甚麼?
 
-* HTML \(Hyper Text Markup Language\) 是用來建立網頁的基礎語言
+* HTML \(Hyper Text Markup Language\) 超文本標記語言，是用來建立網頁的基礎語言
 * HTML是由W3C\(World Wide Web Consortium:全球資訊網組織\)所制定出來的標準語言
 * 網頁構成必須符合W3C規範才能正常解譯，瀏覽器都是以符合 W3C標準開發出
 * HTML 使用「標記」（markup）來詮釋文字、圖像、或是其他能在瀏覽器裡面顯示的內容
