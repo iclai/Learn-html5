@@ -30,6 +30,8 @@ head專門放網頁重要資訊，包括要引用的外部CSS、Javascript、文
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>HTML結構</title>
+  <link href="css/style.css" rel="stylesheet">
+  <script src="js/jquery-3.3.1.js"></script>
 </head>
 ```
 
