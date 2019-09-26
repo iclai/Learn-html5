@@ -2,17 +2,11 @@
 
 ### 絕對路徑
 
-絕對路徑就是以網站的根目錄為參考，是一個絕對的位置，檔案在本機端或是網路端位置都是一樣的，不會隨著目錄改變而改變。
-
-
-
-### 相對路徑
+![](../.gitbook/assets/image%20%28102%29.png)
 
 桌面上的網頁路徑，如果網頁要使用 `img01.jpg` 這張圖片，照片在images子目錄下。
 
-![](../.gitbook/assets/image%20%28100%29.png)
-
-![](../.gitbook/assets/image%20%28106%29.png)
+![](../.gitbook/assets/image%20%28108%29.png)
 
 ```markup
 img src="images/img01.jpg" 
@@ -20,7 +14,7 @@ img src="images/img01.jpg"
 
 現在資料夾中，又多了一個object資料夾，裡面有一個object.html 網頁
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/image%20%2872%29.png)
 
 我要將img01.jpg 照片設定連結至object.html
 
@@ -37,7 +31,7 @@ object.html 中的照片要連結回 img.html
 <a href="../img.html"><img src="../images/img02.jpg" alt="圖片01" width="300"></a>
 ```
 
-![](../.gitbook/assets/image%20%2894%29.png)
+![](../.gitbook/assets/image%20%2896%29.png)
 
 #### 相對路徑有幾個類別:
 
@@ -54,7 +48,11 @@ object.html 中的照片要連結回 img.html
 使用相對路徑，目錄即使轉移，也不需要大幅修改網址。  
 [https://lotus-seed.000webhostapp.com/my\_web/img.html](https://lotus-seed.000webhostapp.com/my_web/img.html)  
 
-![&#x7DB2;&#x9801;&#x4E0A;&#x50B3;&#x81F3;&#x7DB2;&#x8DEF;&#x7A7A;&#x9593;](../.gitbook/assets/image%20%2889%29.png)
+![&#x7DB2;&#x9801;&#x4E0A;&#x50B3;&#x81F3;&#x7DB2;&#x8DEF;&#x7A7A;&#x9593;](../.gitbook/assets/image%20%2891%29.png)
 
+### 絕對路徑
 
+絕對路徑就是以網站的根目錄為參考，是一個絕對的位置，檔案在本機端或是網路端位置都是一樣的，不會隨著目錄改變而改變。
+
+![](../.gitbook/assets/image%20%2863%29.png)
 

@@ -4,7 +4,7 @@
 
  在Html中，下CSS屬性，**border-style** 屬性指定邊框的樣式。
 
-![](../../.gitbook/assets/image%20%28110%29.png)
+![](../../.gitbook/assets/image%20%28112%29.png)
 
 ```markup
 <table style="width: 500px">

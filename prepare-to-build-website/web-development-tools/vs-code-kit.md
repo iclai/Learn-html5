@@ -10,7 +10,7 @@ description: 編輯網頁常用的VS CODE 套件，看自己平常都使用那�
 
 ![](../../.gitbook/assets/image%20%2829%29.png)
 
-![](../../.gitbook/assets/image%20%2892%29.png)
+![](../../.gitbook/assets/image%20%2894%29.png)
 
 ### [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
@@ -58,7 +58,7 @@ description: 編輯網頁常用的VS CODE 套件，看自己平常都使用那�
 
 選擇起始標記就會自動也選提示結束標記，讓使用者輕鬆辨識成對的語法。
 
-![](../../.gitbook/assets/image%20%2898%29.png)
+![](../../.gitbook/assets/image%20%28100%29.png)
 
 ![](../../.gitbook/assets/p3.gif)
 
