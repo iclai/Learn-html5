@@ -8,13 +8,40 @@
 
 桌面上的網頁路徑，如果網頁要使用 `img01.jpg` 這張圖片，照片在images子目錄下。
 
-![](../.gitbook/assets/image%20%2897%29.png)
+![](../.gitbook/assets/image%20%2899%29.png)
 
-![](../.gitbook/assets/image%20%28102%29.png)
+![](../.gitbook/assets/image%20%28105%29.png)
 
-### 
+```markup
+img src="images/img01.jpg" 
+```
 
+現在資料夾中，又多了一個object資料夾，裡面有一個object.html 網頁
 
+![](../.gitbook/assets/image%20%2871%29.png)
 
+我要將img01.jpg 照片設定連結至object.html
 
+```markup
+ <!--相對路徑2-->
+ <a href="./object/object.html">
+    <img src="images/img01.jpg" alt="圖片01" width="300">
+  </a>
+```
+
+object.html 中的照片要連結回 img.html 
+
+```markup
+<a href="../img.html"><img src="../images/img02.jpg" alt="圖片01" width="300"></a>
+```
+
+![](../.gitbook/assets/image%20%2893%29.png)
+
+#### 相對路徑有幾個類別:
+
+* **`XXX.html`** \(表示XXX.html在同一層資料夾目錄中\)
+* **`images/XXX.html`** \(表示在同一層的image目錄下的XXX.html
+* **`./XXX.html`** \(表示在同一層目錄中的XXX.html\)
+* **`../XXX.html`** \(表示在上一層目錄中XXX.html檔案\)
+* **`../object/XXX.html`** \(表示在上一層的目錄object資料夾中的object.html檔案\)
 
