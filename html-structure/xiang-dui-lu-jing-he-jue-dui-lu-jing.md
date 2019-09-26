@@ -2,11 +2,11 @@
 
 ### 絕對路徑
 
-![](../.gitbook/assets/image%20%28102%29.png)
+![](../.gitbook/assets/image%20%28103%29.png)
 
 桌面上的網頁路徑，如果網頁要使用 `img01.jpg` 這張圖片，照片在images子目錄下。
 
-![](../.gitbook/assets/image%20%28108%29.png)
+![](../.gitbook/assets/image%20%28109%29.png)
 
 ```markup
 img src="images/img01.jpg" 
@@ -31,7 +31,7 @@ object.html 中的照片要連結回 img.html
 <a href="../img.html"><img src="../images/img02.jpg" alt="圖片01" width="300"></a>
 ```
 
-![](../.gitbook/assets/image%20%2896%29.png)
+![](../.gitbook/assets/image%20%2897%29.png)
 
 #### 相對路徑有幾個類別:
 

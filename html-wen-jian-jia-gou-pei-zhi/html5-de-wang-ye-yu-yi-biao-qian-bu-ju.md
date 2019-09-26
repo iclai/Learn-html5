@@ -13,11 +13,9 @@
 
 ### HTML 4的佈局
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%2895%29.png)
 
 ### HTML 5的佈局
 
-![](../.gitbook/assets/html5.jpg)
-
-
+![](../.gitbook/assets/a.jpg)
 

@@ -52,5 +52,5 @@ head專門放網頁重要資訊，包括要引用的外部CSS、Javascript、文
 
 一個完整的HTML頁面，它所需要包含的要素，如下：
 
-![](../.gitbook/assets/a.jpg)
+![](../.gitbook/assets/a%20%281%29.jpg)
 

@@ -6,7 +6,7 @@
 
 ### 兩欄兩列
 
-![](../../.gitbook/assets/image%20%2899%29.png)
+![](../../.gitbook/assets/image%20%28100%29.png)
 
 ### 表格橫跨3欄位 colspan
 
@@ -14,5 +14,5 @@
 
 ### 表格直跨2欄位 rowspan
 
-![](../../.gitbook/assets/image%20%2895%29.png)
+![](../../.gitbook/assets/image%20%2896%29.png)
 

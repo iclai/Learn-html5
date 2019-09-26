@@ -79,7 +79,7 @@ html標籤通常都是對稱的，有開始就會有結束標籤，成對出現�
 <wbr>
 ```
 
-![&#x4EE5;&#x9019;&#x500B;&#x5716;&#x7247;&#x5143;&#x7D20; &amp;lt;img&amp;gt;&#x70BA;&#x4F8B;](../.gitbook/assets/image%20%28103%29.png)
+![&#x4EE5;&#x9019;&#x500B;&#x5716;&#x7247;&#x5143;&#x7D20; &amp;lt;img&amp;gt;&#x70BA;&#x4F8B;](../.gitbook/assets/image%20%28104%29.png)
 
 ```markup
 <img src="https://i.imgur.com/ttAYRxX.gif" alt="小小兵">
