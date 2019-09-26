@@ -149,7 +149,7 @@ Open graph 專門給Facebook用的協議， 它與 meta tag 非常相似，社�
 
 ![og:image&#x6C92;&#x6709;&#x653E;&#x5165;&#x5716;&#x7247;&#x8DEF;&#x5F91;](../.gitbook/assets/image%20%2872%29.png)
 
-![FB&#x5716;&#x7247;&#x5C31;&#x4E0D;&#x6703;&#x51FA;&#x73FE;](../.gitbook/assets/image%20%28104%29.png)
+![FB&#x5716;&#x7247;&#x5C31;&#x4E0D;&#x6703;&#x51FA;&#x73FE;](../.gitbook/assets/image%20%28105%29.png)
 
 #### 完整的Property屬性設定，就會有良好的網站曝光率及點擊率!!
 
