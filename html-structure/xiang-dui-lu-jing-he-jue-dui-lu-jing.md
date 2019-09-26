@@ -59,6 +59,6 @@ object.html 中的照片要連結回 img.html
 ![](../.gitbook/assets/image%20%2863%29.png)
 
 {% hint style="info" %}
-請盡量使用相對路徑
+**請盡量使用相對路徑**
 {% endhint %}
 
