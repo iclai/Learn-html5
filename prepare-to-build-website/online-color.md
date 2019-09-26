@@ -38,7 +38,7 @@ Awwwards也是前端設計界最有影響力的獎項之一，每天評選在設
 
 ### [uigradients](https://uigradients.com/#Ali)
 
-![](../.gitbook/assets/image%20%28110%29.png)
+![](../.gitbook/assets/image%20%28111%29.png)
 
 ###  Html Color Codes[tml](https://htmlcolorcodes.com/)[Ｃ](https://htmlcolorcodes.com/)[olor](https://htmlcolorcodes.com/)[Ｃ](https://htmlcolorcodes.com/)[odes](https://htmlcolorcodes.com/)
 
