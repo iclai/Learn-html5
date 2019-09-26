@@ -18,7 +18,7 @@ Awwwards也是前端設計界最有影響力的獎項之一，每天評選在設
 
 以五項作為評分標準，設計感、易用性，創新性，內容、行動版。來做平均總分
 
-![](../.gitbook/assets/image%20%2884%29.png)
+![](../.gitbook/assets/image%20%2885%29.png)
 
 ###  [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/)
 
@@ -30,15 +30,15 @@ Awwwards也是前端設計界最有影響力的獎項之一，每天評選在設
 
 傳統的色彩搭配，充滿亞洲東方色彩韻味的配色網站，裡面都是傳統色
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2848%29.png)
 
 ### [coolors](https://coolors.co/)
 
-![](../.gitbook/assets/image%20%2852%29.png)
+![](../.gitbook/assets/image%20%2853%29.png)
 
 ### [uigradients](https://uigradients.com/#Ali)
 
-![](../.gitbook/assets/image%20%28126%29.png)
+![](../.gitbook/assets/image%20%28127%29.png)
 
 ###  Html Color Codes[tml](https://htmlcolorcodes.com/)[Ｃ](https://htmlcolorcodes.com/)[olor](https://htmlcolorcodes.com/)[Ｃ](https://htmlcolorcodes.com/)[odes](https://htmlcolorcodes.com/)
 
@@ -48,7 +48,7 @@ Awwwards也是前端設計界最有影響力的獎項之一，每天評選在設
 
 選好顏色還可以直接下載
 
-![](../.gitbook/assets/image%20%2861%29.png)
+![](../.gitbook/assets/image%20%2862%29.png)
 
-![CSS&#x3001;HTML &#x90FD;&#x5E6B;&#x4F60;&#x5BEB;&#x597D;](../.gitbook/assets/image%20%2879%29.png)
+![CSS&#x3001;HTML &#x90FD;&#x5E6B;&#x4F60;&#x5BEB;&#x597D;](../.gitbook/assets/image%20%2880%29.png)
 

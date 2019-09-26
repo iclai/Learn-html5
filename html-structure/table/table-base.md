@@ -6,19 +6,23 @@
 
 設定 border="1"會有邊框，border="0"就看不到邊框，不寫border="0"也可以
 
-![](../../.gitbook/assets/image%20%2891%29.png)
+![](../../.gitbook/assets/image%20%2892%29.png)
 
 ### 兩欄兩列
 
-![](../../.gitbook/assets/image%20%28111%29.png)
+![](../../.gitbook/assets/image%20%28112%29.png)
 
 ### 表格橫跨3欄位 colspan
 
 欄 Column 是直式 ，列 Row是直式
 
-![](../../.gitbook/assets/image%20%28100%29.png)
+![](../../.gitbook/assets/image%20%28101%29.png)
 
 ### 表格直跨2欄位 rowspan
 
-![](../../.gitbook/assets/image%20%2859%29.png)
+![](../../.gitbook/assets/image%20%2860%29.png)
+
+> **請練習把以下表格寫出來**
+
+![](../../.gitbook/assets/image%20%2841%29.png)
 
