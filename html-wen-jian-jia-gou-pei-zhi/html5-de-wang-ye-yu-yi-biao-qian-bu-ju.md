@@ -17,5 +17,7 @@
 
 ### HTML 5的佈局
 
+HTML5，將標題和網頁內容定義成一個區塊block，新增了 section元素取代div元素。section通常用來框住整個區塊內容。
+
 ![](../.gitbook/assets/a.jpg)
 
