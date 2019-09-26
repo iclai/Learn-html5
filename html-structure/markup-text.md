@@ -4,7 +4,7 @@
 
 HTML最多可以有六層的heading， **`<h1> ~ <h6>`**
 
-![heading&#x5C31;&#x50CF;&#x4E00;&#x672C;&#x66F8;&#x7684;&#x7AE0;&#x7BC0;&#x6A19;&#x984C;](../.gitbook/assets/image%20%28115%29.png)
+![heading&#x5C31;&#x50CF;&#x4E00;&#x672C;&#x66F8;&#x7684;&#x7AE0;&#x7BC0;&#x6A19;&#x984C;](../.gitbook/assets/image%20%28117%29.png)
 
 
 
@@ -50,11 +50,21 @@ HTML最多可以有六層的heading， **`<h1> ~ <h6>`**
 
 ![](../.gitbook/assets/image%20%2862%29.png)
 
+### List type 類型
+
+* **type="1"**
+* **type="A"**
+* **type="a "**
+* **type="I"**
+* **type="i"**
+
+![](../.gitbook/assets/image%20%2864%29.png)
+
 ### Link連結
 
 連結在網頁中是非常常用到的，圖片需要連結，文字也會用到連結，按鈕需要連結.................等。要使用連結，則需要用到 **`<a>`**元素，並將要被連結的元素包含在裡面。
 
-![](../.gitbook/assets/image%20%28111%29.png)
+![](../.gitbook/assets/image%20%28113%29.png)
 
 #### 圖片連結
 
@@ -66,5 +76,5 @@ HTML最多可以有六層的heading， **`<h1> ~ <h6>`**
 
 信箱設定連結寄出
 
-![](../.gitbook/assets/image%20%2866%29.png)
+![](../.gitbook/assets/image%20%2867%29.png)
 
