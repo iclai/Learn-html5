@@ -4,6 +4,11 @@
 
  在Html中，下CSS屬性，**border-style** 屬性指定邊框的樣式。
 
+```css
+/**將表格邊框兩條線合併**/
+border-collapse: collapse;
+```
+
 ![](../../.gitbook/assets/image%20%28126%29.png)
 
 ```markup
