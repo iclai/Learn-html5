@@ -6,17 +6,17 @@
 
 設定 border="1"會有邊框，border="0"就看不到邊框，不寫border="0"也可以
 
-![](../../.gitbook/assets/image%20%2887%29.png)
+![](../../.gitbook/assets/image%20%2889%29.png)
 
 ### 兩欄兩列
 
-![](../../.gitbook/assets/image%20%28106%29.png)
+![](../../.gitbook/assets/image%20%28109%29.png)
 
 ### 表格橫跨3欄位 colspan
 
-![](../../.gitbook/assets/image%20%2895%29.png)
+![](../../.gitbook/assets/image%20%2898%29.png)
 
 ### 表格直跨2欄位 rowspan
 
-![](../../.gitbook/assets/image%20%28102%29.png)
+![](../../.gitbook/assets/image%20%28105%29.png)
 
