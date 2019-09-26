@@ -4,7 +4,7 @@
 
  在Html中，下CSS屬性，**border-style** 屬性指定邊框的樣式。
 
-![](../../.gitbook/assets/image%20%28100%29.png)
+![](../../.gitbook/assets/image%20%28105%29.png)
 
 ```markup
 <table style="width: 500px">
@@ -25,7 +25,7 @@
 
 ### 邊框色彩
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
 ```markup
  <table style="width: 800px">
@@ -48,5 +48,5 @@
 
 #### top - 上、right - 右、bottom - 下、left - 左。
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2825%29.png)
 
