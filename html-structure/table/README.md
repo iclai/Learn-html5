@@ -14,7 +14,7 @@ description: 早期的table 是同時拿來做網站排版與資料呈現，在 
 
 ![](../../.gitbook/assets/image%20%2838%29.png)
 
-學術資料
+資料顯示
 
 ![](../../.gitbook/assets/image%20%2816%29.png)
 
