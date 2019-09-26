@@ -1,18 +1,22 @@
 # 表格基礎
 
-### 一般沒有邊框的表格
+表格是由**`<table></table>`** 包起來的，**`<tr></tr>`**標籤代表的是一行，而 **`<td> </td>`**標籤則代表一列
 
-![](../../.gitbook/assets/image%20%2847%29.png)
+### 沒有邊框的表格和有邊框的表格
+
+設定 border="1"會有邊框，border="0"就看不到邊框，不寫border="0"也可以
+
+![](../../.gitbook/assets/image%20%2887%29.png)
 
 ### 兩欄兩列
 
-![](../../.gitbook/assets/image%20%28104%29.png)
+![](../../.gitbook/assets/image%20%28106%29.png)
 
 ### 表格橫跨3欄位 colspan
 
-![](../../.gitbook/assets/image%20%2893%29.png)
+![](../../.gitbook/assets/image%20%2895%29.png)
 
 ### 表格直跨2欄位 rowspan
 
-![](../../.gitbook/assets/image%20%28100%29.png)
+![](../../.gitbook/assets/image%20%28102%29.png)
 
