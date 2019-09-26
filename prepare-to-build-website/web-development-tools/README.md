@@ -8,13 +8,13 @@
 
 
 
-![](../../.gitbook/assets/image%20%28111%29.png)
+![](../../.gitbook/assets/image%20%28113%29.png)
 
 ### [Brackets](http://brackets.io/)
 
 adobe出品，免費使用，簡潔速度快
 
-![](../../.gitbook/assets/image%20%28119%29.png)
+![](../../.gitbook/assets/image%20%28122%29.png)
 
 ### [Visual Studio Code](https://code.visualstudio.com)
 

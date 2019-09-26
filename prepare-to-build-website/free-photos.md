@@ -16,7 +16,7 @@ description: 無版權免費圖庫
 
 日本的無版權圖片網站免費圖片資源達5000+，種類有很多，天空、水、河、海、草坪、火、山、動物、建築、夜景、日本景點、日本歷史文化圖片等等。
 
-![](../.gitbook/assets/image%20%2876%29.png)
+![](../.gitbook/assets/image%20%2878%29.png)
 
 ### [burst](https://burst.shopify.com/?ref=techmoon)
 
@@ -28,5 +28,5 @@ description: 無版權免費圖庫
 
 除了可以免費下載圖片，他還可以線上編輯海報、LOGO、名片.....等
 
-![](../.gitbook/assets/image%20%2894%29.png)
+![](../.gitbook/assets/image%20%2896%29.png)
 

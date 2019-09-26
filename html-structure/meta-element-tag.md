@@ -8,7 +8,7 @@
 
 Title \(標題屬性\)，代表網頁的主題，影響你的網頁在Google搜尋排名， Title 標記理想的長度為 _**20~30 中文字**_，Title請撰寫明確、幫助使用者認識你的網站。 
 
-![](../.gitbook/assets/image%20%28107%29.png)
+![](../.gitbook/assets/image%20%28109%29.png)
 
 ###  定義屬性 \(attribute\) :
 
@@ -31,7 +31,7 @@ Title \(標題屬性\)，代表網頁的主題，影響你的網頁在Google搜�
 
 Meta Description\(網頁描述\)是HTML屬性，提供簡短的網頁摘要。通常出現在搜尋引擎結果頁面。
 
-![description&#x63CF;&#x8FF0;&#x7684;&#x6587;&#x5B57;&#x6703;&#x51FA;&#x73FE;&#x5728;&#x641C;&#x5C0B;&#x5F15;&#x64CE;](../.gitbook/assets/image%20%2869%29.png)
+![description&#x63CF;&#x8FF0;&#x7684;&#x6587;&#x5B57;&#x6703;&#x51FA;&#x73FE;&#x5728;&#x641C;&#x5C0B;&#x5F15;&#x64CE;](../.gitbook/assets/image%20%2870%29.png)
 
 ![description&#x63CF;&#x8FF0;&#x7684;&#x6587;&#x5B57;](../.gitbook/assets/image%20%2841%29.png)
 
@@ -81,6 +81,8 @@ copyright 這個 meta 已經不常使用了。建議移除它並創建一個專�
 
 #### content-Type\(設定網頁字符集Charset\)
 
+Html 4 寫法
+
 ```markup
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 ```
@@ -104,11 +106,15 @@ Charset\(字元編碼屬性\)一般使用通用字元集**utf-8**編碼，幾乎
  相關 ZH 編碼有，台灣繁體 ZH-tw、香港繁體 ZH-hk、中國簡體 ZH-cn、新加坡簡體 ZH-sg  
 
 
-#### X-UA-Compatible\(告訴瀏覽器採取何種版本渲染當前頁面，一般都設定為最新模式\)
+#### X-UA-Compatible 可以設置網頁的兼容性。
+
+告訴瀏覽器採取何種版本渲染當前頁面，一般都設定為最新模式
 
 ```markup
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/> <!--指定IE和Chrome使用最新版本渲染當前頁>-->
 ```
+
+以上程式碼`IE=edge`告訴IE使用最新的引擎渲染網頁，添加”`chrome=1`“將允許網站在使用了Google瀏覽器内嵌框架（Chrome Frame）的用戶端渲染，對於没有使用的則没有任何影響。
 
 #### refresh\(自動重新整理並指向某頁面\)
 
@@ -135,7 +141,7 @@ Open graph 專門給Facebook用的協議， 它與 meta tag 非常相似，社�
 <meta property="og:locale" content="zh_TW">
 ```
 
-![](../.gitbook/assets/image%20%28117%29.png)
+![](../.gitbook/assets/image%20%28120%29.png)
 
 #### Metadata 的 og:Tag屬性說明
 
@@ -145,11 +151,11 @@ Open graph 專門給Facebook用的協議， 它與 meta tag 非常相似，社�
 <meta property="og:image" content="https://www.apple.com/ac/structured-data/images/open_graph_logo.png?201810272230">
 ```
 
-![](../.gitbook/assets/image%20%28108%29.png)
+![](../.gitbook/assets/image%20%28110%29.png)
 
-![og:image&#x6C92;&#x6709;&#x653E;&#x5165;&#x5716;&#x7247;&#x8DEF;&#x5F91;](../.gitbook/assets/image%20%2880%29.png)
+![og:image&#x6C92;&#x6709;&#x653E;&#x5165;&#x5716;&#x7247;&#x8DEF;&#x5F91;](../.gitbook/assets/image%20%2882%29.png)
 
-![FB&#x5716;&#x7247;&#x5C31;&#x4E0D;&#x6703;&#x51FA;&#x73FE;](../.gitbook/assets/image%20%28121%29.png)
+![FB&#x5716;&#x7247;&#x5C31;&#x4E0D;&#x6703;&#x51FA;&#x73FE;](../.gitbook/assets/image%20%28124%29.png)
 
 #### 完整的Property屬性設定，就會有良好的網站曝光率及點擊率!!
 
