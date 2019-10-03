@@ -11,7 +11,6 @@ iframe這個詞是 **`inline frame`** 的縮寫
     width="600" 
     height="450" 
     frameborder="0" 
-    style="border:0;" 
     allowfullscreen="">
 </iframe>
 ```
@@ -25,6 +24,7 @@ iframe這個詞是 **`inline frame`** 的縮寫
 * **`scrolling`**設定iframe視窗是否可以捲動。**`yes, no, auto`**。
 * **`src`**  iframe的網址。
 * **`sandbox`**控制iframe 內的權限\(html5新功能\)。\([解說資料在此](https://msdn.microsoft.com/en-us/hh563496.aspx)\)
+* **`.allowfullscreen`** 比較常用在嵌入影片，如youtube，有設定**`allowfullscreen`**就可以開啟全螢幕
 
 {% hint style="info" %}
 HTML5 不推薦使用Frames,而不支持iFrames。
