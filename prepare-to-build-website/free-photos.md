@@ -28,5 +28,5 @@ description: 無版權免費圖庫
 
 除了可以免費下載圖片，他還可以線上編輯海報、LOGO、名片.....等
 
-![](../.gitbook/assets/image%20%2898%29.png)
+![](../.gitbook/assets/image%20%2897%29.png)
 

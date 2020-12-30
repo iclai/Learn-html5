@@ -13,7 +13,7 @@
 
 ### HTML 4的佈局
 
-![](../.gitbook/assets/image%20%28108%29.png)
+![](../.gitbook/assets/image%20%28107%29.png)
 
 ### HTML 5的佈局
 
